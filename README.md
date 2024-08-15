@@ -3,6 +3,7 @@
 ## Overview
 
 The **City Image Search App -- React** is a React-based application that allows users to search for images of cities. Users can input a city name, and the app will fetch and display a list of images related to that city. The images can be browsed using pagination controls. Additionally, clicking on an image will set it as the background of the application.
+![Alt text](public/overview.png)
 
 
 ## Features
